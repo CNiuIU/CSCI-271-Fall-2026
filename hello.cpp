@@ -1,3 +1,5 @@
+//NIU Assignment 1
+
 #include <iostream> //i think iostream includes string as well
 #include <string>
 using namespace std;
